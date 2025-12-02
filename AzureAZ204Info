@@ -1,0 +1,169 @@
+AzureAZ204Info
+
+AZ-204 Info
+ 
+Course : Developing Solutions for Microsoft Azure
+ 
+URL: https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/
+ 
+ 
+Learning Path - 1: Implement Azure App Service web apps			- 	4 units
+ 
+Learning Path - 2: Implement Azure Functions				-	2 units
+ 
+Learning Path - 3: Develop solutions that use Blob storage		-	3 units
+ 
+Learning Path - 4: Develop solutions that use Azure Cosmos DB		-	2 units
+ 
+Learning Path - 5: Implement containerized solutions			-	3 units
+ 
+Learning Path - 6: Implement user authentication and authorization	-	4 units
+ 
+Learning Path - 7: Implement secure Azure solutions			-	3 units
+ 
+Learning Path - 8: Implement API Management				-	1 unit
+ 
+Learning Path - 9: Develop event-based solutions			-	2 units
+ 
+Learning Path - 10: Develop message-based solutions			-	1 unit
+ 
+Learning Path - 11: Troubleshoot solutions by using Application Insights-	1 unit
+ 
+Learning Path - 12: Implement caching for solutions			-	2 units
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Learning Path - 1: Implement Azure App Service web apps
+ 
+Exercise: Create a static HTML web app by using Azure Cloud Shell:
+https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/7-create-html-web-app
+ 
+az webapp up -g test-az-204 -n $appName --html
+ 
+--------------------------------------------------------------------------
+ 
+Learning Path - 2: Implement Azure Functions
+ 
+Exercise: Create an Azure Function by using Visual Studio Code
+https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/5-create-function-visual-studio-code
+ 
+--------------------------------------------------------------------------
+ 
+Learning Path - 3: Develop solutions that use Blob storage
+ 
+https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/4-develop-blob-storage-dotnet?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-solutions-that-use-blob-storage
+ 
+az group create --location westus --name az204-blob-rg
+ 
+az storage account create --resource-group az204-blob-rg --name sample56strgact --location westus --sku Standard_LRS
+ 
+DefaultEndpointsProtocol=https;AccountName=sample56strgact;AccountKey=ULc2GdK7XahIAujsv5AIoNQ/LQhADskyvYw5DW3bBsy45Lsf5j/6cCcOF2vvGhlRLXOEzozqjpuW+AStwfV3tQYy==;EndpointSuffix=core.windows.net
+ 
+ 
+Lab 03: Retrieve Azure Storage resources and metadata by using the Azure Storage SDK for .NET
+https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_03.html
+ 
+--------------------------------------------------------------------------
+ 
+Learning Path - 4: Develop solutions that use Azure Cosmos DB	
+ 
+Exercise: Create Azure Cosmos DB resources by using the Azure portal
+https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/8-create-cosmos-db-resources-portal
+ 
+ 
+Exercise: Create resources by using the Microsoft .NET SDK v3
+https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/3-exercise-work-cosmos-db-dotnet
+ 
+ 
+Lab 04: Construct a polyglot data solution:
+https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_04.html
+ 
+ 
+Consistency Levels in Azure Cosmos DB:
+https://learn.microsoft.com/en-us/azure/cosmos-db/consistency-levels?source=recommendations
+ 
+ 
+https://learn.microsoft.com/en-us/azure/cosmos-db/change-feed
+https://azure.github.io/cloud-scale-data-for-devs-guide/change-feed-concepts.html
+ 
+ 
+--------------------------------------------------------------------------
+ 
+ 
+Learning Path - 5: Implement containerized solutions
+ 
+II - Exercise - Deploy a container instance by using the Azure CLI
+https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/3-run-azure-container-instances-cloud-shell
+ 
+ 
+III - Exercise - Deploy a container app
+https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/3-exercise-deploy-app
+ 
+ 
+--------------------------------------------------------------------------
+ 
+Learning Path - 6: Implement user authentication and authorization
+ 
+ 
+Exercise - Implement interactive authentication by using MSAL.NET
+https://learn.microsoft.com/en-us/training/modules/implement-authentication-by-using-microsoft-authentication-library/4-interactive-authentication-msal
+ 
+ 
+--------------------------------------------------------------------------
+ 
+ 
+Learning Path - 7: Implement secure Azure solutions
+ 
+Exercise: Set and retrieve a secret from Azure Key Vault by using Azure CLI
+https://learn.microsoft.com/en-us/training/modules/implement-azure-key-vault/5-set-retrieve-secret-azure-key-vault
+ 
+Lab 07: Access resource secrets more securely across services
+https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_07.html
+ 
+--------------------------------------------------------------------------
+ 
+Learning Path - 8: Implement API Management
+ 
+Lab 08: Create a multi-tier solution by using Azure services
+https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_08.html
+ 
+--------------------------------------------------------------------------
+ 
+Learning Path - 9: Develop event-based solutions
+ 
+Exercise - Route custom events to web endpoint by using Azure CLI
+https://learn.microsoft.com/en-us/training/modules/azure-event-grid/8-event-grid-custom-events
+ 
+ 
+Lab 09: Publish and subscribe to Event Grid events
+https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_09.html
+ 
+--------------------------------------------------------------------------
+ 
+ 
+Lab 10: Asynchronously process messages by using Azure Service Bus Queues
+https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_10.html
+ 
+ 
+Exercise: Send and receive message from a Service Bus queue by using .NET.
+https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/6-send-receive-messages-service-bus
+ 
+ 
+--------------------------------------------------------------------------
+ 
+Learning Path 11: Troubleshoot solutions by using Application Insights
+ 
+ 
+Lab 11: Monitor services that are deployed to Azure
+https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_11.html
+ 
+ 
+--------------------------------------------------------------------------
+ 
+ 
+Lab 12: Enhance a web application by using the Azure Content Delivery Network
+https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_12.html
+ 
+ 
+ 
