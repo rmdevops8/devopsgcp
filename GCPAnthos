@@ -1,0 +1,236 @@
+GCP Anthos 
+
+Shiyghan Navti
+9:01 AM
+Welcome to the Architecting Hybrid Infrastructure with GKE Enterprise program for partners. You can find the program guide with the agenda, labs and numerous other resources at https://docs.google.com/document/d/1Fmr30OsltMKQ3v1C7BFH_OwKqjzJkJPADG2QGQtd86Y/edit?tab=t.0#heading=h.6bd0l8yn7fy1
+keep
+Pinned
+Review the first page of this document and ensure you can access the links while we wait for other participants to join the session.
+keep
+Pinned
+Sangram Rath
+9:21 AM
+https://partner.cloudskillsboost.google.com/classrooms/28724 should also list all labs and lecture notes.
+Shiyghan Navti
+9:28 AM
+https://drive.google.com/drive/u/3/folders/1c5izziz_NpFB3P2Rygl3objn4EbgwoLu
+Shiyghan Navti
+9:31 AM
+https://www.partneradvantage.goog/GCPPRM/s/application-development?tabset-fba84=2
+dtq-joef-qyq
+
+Shiyghan Navti
+10:30 AM
+https://drive.google.com/file/d/14bz0oz3P3zV-Ty0DJNty3b3n5EfKEW4u/view
+Shiyghan Navti
+10:35 AM
+https://www.youtube.com/user/googlecloudplatform/search?query=anthos
+https://www.youtube.com/user/googlecloudplatform/search?query=gkeenterprise
+
+Shiyghan Navti
+9:02 AM
+Welcome everyone to day 3 of the Architecting Hybrid Infrastructure with GKE Enterprise program for partners. You can find the program guide at https://docs.google.com/document/d/1Fmr30OsltMKQ3v1C7BFH_OwKqjzJkJPADG2QGQtd86Y/edit?tab=t.0#heading=h.6bd0l8yn7fy1
+keep
+Pinned
+Shiyghan Navti
+9:03 AM
+Today's session will focus on Google Distributed Cloud software only for bare metal systems. Please bear with us while we allow time for more participants to join the call.
+keep
+Pinned
+Shiyghan Navti
+9:45 AM
+https://istio.io/latest/blog/2022/introducing-ambient-mesh/
+keep
+Pinned
+https://istio.io/latest/docs/ops/deployment/performance-and-scalability/
+keep
+Pinned
+https://istio.io/latest/docs/overview/dataplane-modes/
+keep
+Pinned
+
+Shiyghan Navti
+10:20 AM
+https://github.com/GoogleCloudPlatform/anthos-samples
+
+Shiyghan Navti
+8:57 AM
+Good morning everyone. Welcome to the final day of the Architecting Hybrid Infrastructure with GKE Enterprise program for partners. You can find the program guide at https://docs.google.com/document/d/1Fmr30OsltMKQ3v1C7BFH_OwKqjzJkJPADG2QGQtd86Y/edit?tab=t.0#heading=h.6bd0l8yn7fy1
+keep
+Pinned
+Shiyghan Navti
+8:59 AM
+With today's session being the last session of the program, please spare 5 mins to complete the program survey. The link is https://partner.cloudskillsboost.google/classrooms/28724/course_surveys/google-cloud-learning-evaluation-tga?preview=true. I have allowed 15 mins at the start of the program for participants to join and complete the survey before we get started.
+keep
+Pinned
+Shiyghan Navti
+10:22 AM
+https://cloud.google.com/service-mesh/docs/configure-cloud-service-mesh-for-cloud-run
+Sandipan Dey (US)
+10:40 AM
+Can we plz have 15mins break after this   module?
+Shiyghan Navti
+10:45 AM
+https://www.youtube.com/watch?v=PKmoD3Gv31w&t=2s
+Cloud Run
+
+BRK2–175-The ultimate Cloud Run guide: From zero to production
+https://www.youtube.com/watch?v=a459I_qUF3Q&t=45s
+https://content-cdn.sessionboard.com/content/uuLTmd5EQwit0NIY3WnN_BRK2-175.pdf
+
+Unleash the power of serverless GPUs with Cloud Run
+https://www.youtube.com/watch?v=PKmoD3Gv31w&t=2s
+https://content-cdn.sessionboard.com/content/CL3FjdcwTy6ui3JPXH93_BRK2-070.pdf
+
+BRK2–071-Run high-availability multi-region services with Cloud Run
+https://www.youtube.com/watch?v=tTv-SVkKRTw&t=1
+
+https://github.com/GoogleCloudPlatform/migrate-to-containers
+
+
+
+
+
+Marketplace server - Distributed Cloud Edge cluster  ( on Prem Cluster ) - k8 control node on cloud or nearest dc . 
+
+
+Shiyghan Navti
+11:11 AM
+https://cloud.google.com/kubernetes-engine/enterprise/docs/release-notes
+
+https://cloud.google.com/kubernetes-engine/enterprise/docs/deployment-options
+
+SRE google - https://sre.google/
+
+GKE Enterprice attached cluster : https://cloud.google.com/kubernetes-engine/multi-cloud/docs/attached
+
+Shiyghan Navti
+11:20 AM
+https://cloud.google.com/kubernetes-engine/multi-cloud/docs/attached
+keep
+Pinned
+Shiyghan Navti
+11:29 AM
+https://istio.devstats.cncf.io/d/8/dashboards?orgId=1&refresh=15m
+
+
+
+Shiyghan Navti
+9:53 AM
+https://istio.devstats.cncf.io/d/8/dashboards?orgId=1&refresh=15m
+keep
+Pinned
+Shiyghan Navti
+10:12 AM
+https://istio.io/latest/docs/tasks/traffic-management/
+
+Shiyghan Navti
+8:58 AM
+Good morning everyone. Welcome to day 2 of our Architecting Hybrid Infrastructure with GKE Enterprise program for partners. You can find the program guide at https://docs.google.com/document/d/1Fmr30OsltMKQ3v1C7BFH_OwKqjzJkJPADG2QGQtd86Y/edit?tab=t.0#heading=h.6bd0l8yn7fy1.
+keep
+Pinned
+In today's session, we will focus on the Service Mesh. Please allow 5 mins for participants to join the session.
+keep
+Pinned
+Shiyghan Navti
+9:53 AM
+https://istio.devstats.cncf.io/d/8/dashboards?orgId=1&refresh=15m
+keep
+Pinned
+ravichander Kt
+3:00 PM
+Yes mate
+Pavan Kumar Galam
+3:00 PM
+yes
+Shiyghan Navti
+3:18 PM
+https://cloud.google.com/service-mesh/docs/supported-features-managed
+keep
+Pinned
+Sandipan Dey (US)
+3:22 PM
+can you plz explain it again
+Shiyghan Navti
+3:32 PM
+https://cloud.google.com/service-mesh/docs/security/egress-gateways-best-practices
+keep
+Pinned
+Shiyghan Navti
+3:39 PM
+https://cloud.google.com/service-mesh/docs/operate-and-maintain/off-gcp-multi-cluster-setup#enable_endpoint_discovery
+keep
+Pinned
+Shiyghan Navti
+3:43 PM
+http://34.8.118.172/home
+Shiyghan Navti
+3:48 PM
+Cluster: gke-bank-cluster-2, Pod: frontend-558cf7d9d9-2568c, Zone: unknown
+You
+3:56 PM
+https://github.com/GoogleCloudPlatform/bank-of-anthos.git
+Hover over a message to pin it
+keep
+Shiyghan Navti
+3:56 PM
+https://github.com/techequitytraining
+You
+3:59 PM
+show once again that Terraform
+
+
+
+
+Shiyghan Navti
+8:54 AM
+Good morning everyone. Welcome to the Architecting Hybrid Infrastructure with GKE Enterprise program for partners. You can find the program guide at https://docs.google.com/document/d/1Fmr30OsltMKQ3v1C7BFH_OwKqjzJkJPADG2QGQtd86Y/edit?pli=1&tab=t.0#heading=h.6bd0l8yn7fy1. Go to this document and ensure you can access the links on the first page.
+keep
+Pinned
+I have added a few mins to allow participants to join the session. Thanks for your patience.
+keep
+Pinned
+Shiyghan Navti
+10:25 AM
+https://drive.google.com/file/d/14bz0oz3P3zV-Ty0DJNty3b3n5EfKEW4u/view
+keep
+Pinned
+Shiyghan Navti
+10:37 AM
+https://inthecloud.withgoogle.com/content-anthos/dl-cd.html
+keep
+Pinned
+https://www.youtube.com/user/googlecloudplatform/search?query=anthos
+keep
+Pinned
+Shiyghan Navti
+11:06 AM
+https://github.com/GoogleCloudPlatform/anthos-samples
+keep
+Pinned
+Shiyghan Navti
+11:09 AM
+https://docs.google.com/presentation/d/1s2L67zpQaTZHb-rrvIwuoMnSOvcI2X6sHSQgj-N9QNU/edit?resourcekey=0-y-6RY0J_2c_YkE5oTp22wA#slide=id.g143431d6783_0_3447
+keep
+Pinned
+Shiyghan Navti
+11:12 AM
+https://sre.google/
+keep
+Pinned
+Shiyghan Navti
+11:24 AM
+https://cloud.google.com/blog/products/infrastructure-modernization/google-distributed-cloud-hosted-is-ga
+keep
+Pinned
+Shiyghan Navti
+11:30 AM
+https://dora.dev/
+keep
+Pinned
+https://cloud.google.com/kubernetes-engine/enterprise/docs/deployment-options
+keep
+Pinned
+
+
+
